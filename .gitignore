@@ -1,5 +1,6 @@
 # OSX junk files
 .DS_Store
 
-# drive command line tool dir
+# Directories
 drive/*
+git-credential-osxkeychain/*
