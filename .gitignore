@@ -1,6 +1,9 @@
 # OSX junk files
 .DS_Store
 
+# Files
+git-credential-osxkeychain
+
 # Directories
 drive/*
-git-credential-osxkeychain
+.vagrant/*
